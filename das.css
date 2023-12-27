@@ -1,0 +1,11 @@
+body{
+    padding:50px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(160,160,191,1) 43%, rgba(6,5,79,1) 100%, rgba(0,212,255,1) 100%); 
+}
+.cons{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

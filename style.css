@@ -1,0 +1,27 @@
+body{
+    padding:50px;
+    background-image: url(nic.jpg);
+    background-size: cover;
+    
+}
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.form-group{
+    margin-bottom:30px;
+}
+.eye{
+    position: absolute;
+    right:34%;
+    top: 36.3%;
+    
+}
+
+.eyeslash{
+    position: absolute;
+    right: 34%;
+    top: 44.7%;
+}

@@ -1,0 +1,19 @@
+body{
+    padding:50px;
+    background-color: rgb(66, 175, 215);
+    background-size: cover;
+    
+}
+.wrapper{
+    max-width: 700px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.input-box{
+    margin-bottom:35px;
+}
+.eyelog{
+    position:absolute;
+
+}
